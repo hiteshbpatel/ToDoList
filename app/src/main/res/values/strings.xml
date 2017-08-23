@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">ToDoList_Project</string>
+    <string name="add">Add</string>
+    <string name="complete_tasks">Complete Tasks</string>
+    <string name="settings">Settings</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="date">Date</string>
+    <string name="update">Update</string>
+    <string name="search">Search</string>
+    <string name="Add_Task">Add Task</string>
+    <string name="no_data_to_display">No data to display</string>
+    <string name="cant_update_task">Can\'t Update Task</string>
+    <string name="select_action">Select Action</string>
+    <string name="set_complete">Set Complete</string>
+    <string name="delete">Delete</string>
+    <string name="task_deleted">Task Deleted</string>
+    <string name="error_in_deleting_task">Error in deleting Task</string>
+    <string name="task_inserted">Task inserted</string>
+    <string name="error">Error</string>
+    <string name="title_empty_error">Title can not be empty. Enter Title First.</string>
+    <string name="no_complete_task">No completed tasks</string>
+    <string-array name="listpreflang">
+
+        <item >English</item>
+        <item >Hindi</item>
+        <item >French</item>
+        <item >Spanish</item>
+    </string-array>
+    <string-array name="listpreflang_entryval">
+
+        <item >English</item>
+        <item >Hindi</item>
+        <item >French</item>
+        <item >Spanish</item>
+    </string-array>
+
+    <string-array name="listpref">
+        <item >Alphabetically</item>
+        <item >Old Tasks first</item>
+        <item >New Tasks first</item>
+    </string-array>
+    <string-array name="listpref_entryval">
+
+    <item >Alphabetically</item>
+    <item >Old Tasks first</item>
+    <item >New Tasks first</item>
+
+    </string-array>
+
+    <string-array name="tasknoti">
+
+        <item >On Time</item>
+        <item >5 mins before</item>
+        <item >15 minutes before</item>
+        <item>30 mins before</item>
+        <item>1 hour before</item>
+        <item>2 hours before</item>
+        <item>3 hours before</item>
+    </string-array>
+    <string-array name="tasknoti_entryval">
+
+        <item >On Time</item>
+        <item >5 mins before</item>
+        <item >15 minutes before</item>
+        <item>30 mins before</item>
+        <item>1 hour before</item>
+        <item>2 hours before</item>
+        <item>3 hours before</item>
+
+    </string-array>
+</resources>

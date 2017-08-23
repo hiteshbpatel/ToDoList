@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="General">
+        <ListPreference
+            android:key="language"
+            android:entryValues="@array/listpreflang"
+            android:entries="@array/listpreflang_entryval"
+            android:summary="%s"
+            android:title="Language"
+            />
+        <ListPreference
+            android:key="sort"
+            android:summary="%s"
+            android:title="Sort Order"
+            android:entryValues="@array/listpref"
+            android:entries="@array/listpref_entryval"
+            />
+    </PreferenceCategory>
+
+</PreferenceScreen>

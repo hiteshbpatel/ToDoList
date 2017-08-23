@@ -1,0 +1,38 @@
+<resources>
+    <string name="add">Añadir</string>
+    <string name="complete_tasks">Tareas completas</string>
+    <string name="title">Título</string>
+    <string name="description">Descripción</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="date">Fecha</string>
+    <string name="update">Actualizar</string>
+    <string name="search">Buscar</string>
+    <string name="Add_Task">Agregar tarea</string>
+    <string name="no_data_to_display">No hay datos para mostrar</string>
+    <string name="cant_update_task">No se puede actualizar la tarea</string>
+    <string name="select_action">Seleccione la acción</string>
+    <string name="set_complete">Conjunto Completo</string>
+    <string name="delete">Borrar</string>
+    <string name="task_deleted">Tarea eliminada</string>
+    <string name="error_in_deleting_task">Error al eliminar la tarea</string>
+    <string name="task_inserted">Tarea insertada</string>
+    <string name="error">Error</string>
+    <string name="title_empty_error">El título no puede estar vacío. Introduzca primero el título.</string>
+    <string name="no_complete_task">Ninguna tarea completada</string>
+    <string-array name="listpreflang">
+
+        <item >English</item>
+        <item >Hindi</item>
+        <item >French</item>
+        <item >Spanish</item>
+    </string-array>
+    <string-array name="listpreflang_entryval">
+
+        <item >English</item>
+        <item >Hindi</item>
+        <item >French</item>
+        <item >Spanish</item>
+    </string-array>
+
+</resources>

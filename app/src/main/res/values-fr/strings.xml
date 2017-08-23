@@ -1,0 +1,38 @@
+﻿<resources>
+    <string name="add">ajouter</string>
+    <string name="complete_tasks">Tâches complètes</string>
+    <string name="title">Titre</string>
+    <string name="description">La description</string>
+    <string name="save">sauvegarder</string>
+    <string name="cancel">Annuler</string>
+    <string name="date">Rendez-vous amoureux</string>
+    <string name="update">Mettre à jour</string>
+    <string name="search">chercher</string>
+    <string name="Add_Task">Ajouter une tâche</string>
+    <string name="no_data_to_display">Aucune donnée à afficher</string>
+    <string name="cant_update_task">Impossible de mettre à jour la tâche</string>
+    <string name="select_action">Sélectionnez l\'action</string>
+    <string name="set_complete">Ensemble terminé</string>
+    <string name="delete">Effacer</string>
+    <string name="task_deleted">Tâche supprimée</string>
+    <string name="error_in_deleting_task">Erreur lors de la suppression de la tâche</string>
+    <string name="task_inserted">Tâche insérée</string>
+    <string name="error">Erreur</string>
+    <string name="title_empty_error">Le titre ne peut pas être vide. Entrez le titre en premier.</string>
+    <string name="no_complete_task">Aucune tâche terminée</string>
+    <string-array name="listpreflang">
+
+        <item >English</item>
+        <item >Hindi</item>
+        <item >French</item>
+        <item >Spanish</item>
+    </string-array>
+    <string-array name="listpreflang_entryval">
+
+        <item >English</item>
+        <item >Hindi</item>
+        <item >French</item>
+        <item >Spanish</item>
+    </string-array>
+
+</resources>

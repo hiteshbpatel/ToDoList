@@ -1,0 +1,38 @@
+<resources>
+    <string name="add">जोड़ना</string>
+    <string name="complete_tasks">पूरा कार्य</string>
+    <string name="title">शीर्षक</string>
+    <string name="description">विवरण</string>
+    <string name="save">बचाना</string>
+    <string name="cancel">रद्द करना</string>
+    <string name="date">तारीख</string>
+    <string name="update">अद्यतन</string>
+    <string name="search">खोज</string>
+    <string name="Add_Task">कार्य जोड़ें</string>
+    <string name="no_data_to_display">डेटा प्रदर्शित करने के लिए उपलब्ध नहीं हैं</string>
+    <string name="cant_update_task">कार्य अद्यतन नहीं किया जा सकता</string>
+    <string name="select_action">कार्रवाई चुनें</string>
+    <string name="set_complete">पूर्ण सेट करें</string>
+    <string name="delete">हटाना</string>
+    <string name="task_deleted">टास्क हटाए गए</string>
+    <string name="error_in_deleting_task">कार्य को हटाने में त्रुटि</string>
+    <string name="task_inserted">कार्य सम्मिलित</string>
+    <string name="error">त्रुटि</string>
+    <string name="title_empty_error">शीर्षक रिक्त नहीं हो सकता। प्रथम शीर्षक दर्ज करें</string>
+    <string name="no_complete_task">कोई कार्य पूरा नहीं हुआ</string>
+    <string-array name="listpreflang">
+
+        <item >English</item>
+        <item >Hindi</item>
+        <item >French</item>
+        <item >Spanish</item>
+    </string-array>
+    <string-array name="listpreflang_entryval">
+
+        <item >English</item>
+        <item >Hindi</item>
+        <item >French</item>
+        <item >Spanish</item>
+    </string-array>
+
+</resources>
